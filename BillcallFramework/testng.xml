@@ -1,0 +1,7 @@
+<suite name="Billcall">
+  <test thread-count="5" name="BillcallLogin">
+    <classes>
+      <class name="BillcallLogin.BillcallLoginTestNGTest"/>
+    </classes>
+  </test> <!-- BillcallLogin -->
+</suite> <!-- Billcall -->
